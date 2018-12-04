@@ -1,12 +1,12 @@
-package coupling;
+package edu.javafullstack.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CouplingApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CouplingApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }
