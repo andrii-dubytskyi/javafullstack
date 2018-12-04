@@ -1,4 +1,4 @@
-package edu.javafullstack.springmaster.coupling;
+package coupling;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
